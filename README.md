@@ -8,7 +8,7 @@ data-sets/
   \Lopez1/ # Production dataset
     |
     |
-    \ids/ # filtered ids tracked through lfs
+    \final_ids/ # filtered ids tracked through lfs
     |
     |
     \hydrated/ # ignored, see .gitignore
