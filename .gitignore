@@ -167,4 +167,4 @@ ipython_config.py
 
 # Ignore Twitter data sets since they are not allowed to be shared.
 data-sets/**/hydrated/
-
+data-sets/**/processed/
